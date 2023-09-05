@@ -2,8 +2,6 @@ Hi 👋 My name is Pawel
 ======================
 
 * 🌍  I'm based in Berlin
-* 🧠  I'm learning c# / .NET / ASP.NET
-
 
 ### Languages and Tools
 <p align="left"> 
